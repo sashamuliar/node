@@ -1,0 +1,30 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashamuliar/node.git"
+  },
+  "keywords": [
+    "test",
+    "user",
+    "node"
+  ],
+  "author": "Mr.M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashamuliar/node/issues"
+  },
+  "homepage": "https://github.com/sashamuliar/node#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.20"
+  }
+}
